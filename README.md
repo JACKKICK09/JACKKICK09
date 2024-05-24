@@ -5,7 +5,7 @@
 ### <div align="center">I'm Artem, a backend developer 👨‍💻 studying in ITMO since 2024 🚀</div>  
   
 
-- 🌱 I’m currently learning Java, Spring and PostgreSQL  
+- 🌱 I’m currently learning Java, Spring, GoLANG and PostgreSQL  
   
 
 <br/>  
